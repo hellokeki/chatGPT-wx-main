@@ -11,7 +11,7 @@ static/WechatIMG549.jpeg
 
 需求定制联系：
 
-static/WechatIMG3549.jpeg
+https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG3549.jpeg
 
 --------------------------------------------------------------------
 api说明
