@@ -3,17 +3,15 @@
 
 项目演示地址：
 
-![5481678034395_.pic.jpg](..%2F..%2F..%2FLibrary%2FContainers%2Fcom.tencent.xinWeChat%2FData%2FLibrary%2FApplication%20Support%2Fcom.tencent.xinWeChat%2F2.0b4.0.9%2F19b8c8c2f260f8262eb16258172182d5%2FMessage%2FMessageTemp%2F9e20f478899dc29eb19741386f9343c8%2FImage%2F5481678034395_.pic.jpg)
+static/WechatIMG548.jpeg
 
 技术爱好者交流群：
 
-![5491678038469_.pic.jpg](..%2F..%2F..%2FLibrary%2FContainers%2Fcom.tencent.xinWeChat%2FData%2FLibrary%2FApplication%20Support%2Fcom.tencent.xinWeChat%2F2.0b4.0.9%2F19b8c8c2f260f8262eb16258172182d5%2FMessage%2FMessageTemp%2F9e20f478899dc29eb19741386f9343c8%2FImage%2F5491678038469_.pic.jpg)
-
+static/WechatIMG549.jpeg
 
 需求定制联系：
 
-https://github.com/hellokeki/chatGPT-wx/blob/master/static/WechatIMG3549.jpeg
-
+static/WechatIMG3549.jpeg
 
 --------------------------------------------------------------------
 api说明
