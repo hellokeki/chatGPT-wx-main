@@ -3,15 +3,15 @@
 
 项目演示地址：
 
-https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG548.jpeg
+<img alt="WechatIMG548.jpeg" src="../../WechatIMG548.jpeg"/>
 
 技术爱好者交流群：
 
-https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG549.jpeg
+<img alt="WechatIMG549.jpeg" src="static/WechatIMG549.jpeg"/>
 
 需求定制联系：
 
-https://raw.githubusercontent.com/hellokeki/chatGPT-wx-main/master/static/WechatIMG3549.jpeg
+<img alt="WechatIMG550.jpeg" src="static/WechatIMG3549.jpeg"/>
 
 --------------------------------------------------------------------
 api说明
