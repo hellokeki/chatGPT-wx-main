@@ -3,7 +3,7 @@
 
 项目演示地址：
 
-<img alt="WechatIMG548.jpeg" src="../../WechatIMG548.jpeg"/>
+<img alt="WechatIMG548.jpeg" src="static/WechatIMG548.jpeg"/>
 
 技术爱好者交流群：
 
