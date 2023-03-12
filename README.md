@@ -3,16 +3,16 @@
 
 项目演示地址：vx小程序：智能AI聊天工具
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/d0kQSBCT/Wechat-IMG548.jpg' border='0' alt='Wechat-IMG548'/></a>
 <a href='https://postimg.cc/Z9mhW6VT' target='_blank'><img src='https://i.postimg.cc/Z9mhW6VT/Wechat-IMG548.jpg' border='0' alt='Wechat-IMG548'/></a>
+
 技术爱好者交流群：
 
-<img alt="WechatIMG549.jpeg" src="static/WechatIMG549.jpeg"/>
+<a href='https://postimg.cc/nCskD5Pk' target='_blank'><img src='https://i.postimg.cc/nCskD5Pk/Wechat-IMG724.jpg' border='0' alt='Wechat-IMG724'/></a>
 
 
 需求定制联系： 微信：youjunqifei
 
-<img alt="WechatIMG550.jpeg" src="static/WechatIMG3549.jpeg"/>
+<a href='https://postimg.cc/6TPVtcpG' target='_blank'><img src='https://i.postimg.cc/6TPVtcpG/Wechat-IMG550.jpg' border='0' alt='Wechat-IMG550'/></a>
 
 --------------------------------------------------------------------
 api说明
