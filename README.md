@@ -3,9 +3,7 @@
 
 项目演示地址：vx小程序：智能AI聊天工具
 
-
-https://github.com/hellokeki/chatGPT-wx-main/blob/master/static/WechatIMG548.jpeg
-
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/d0kQSBCT/Wechat-IMG548.jpg' border='0' alt='Wechat-IMG548'/></a>
 
 技术爱好者交流群：
 
