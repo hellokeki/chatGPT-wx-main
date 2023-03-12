@@ -4,7 +4,7 @@
 项目演示地址：vx小程序：智能AI聊天工具
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/d0kQSBCT/Wechat-IMG548.jpg' border='0' alt='Wechat-IMG548'/></a>
-
+<a href='https://postimg.cc/Z9mhW6VT' target='_blank'><img src='https://i.postimg.cc/Z9mhW6VT/Wechat-IMG548.jpg' border='0' alt='Wechat-IMG548'/></a>
 技术爱好者交流群：
 
 <img alt="WechatIMG549.jpeg" src="static/WechatIMG549.jpeg"/>
