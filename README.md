@@ -1,4 +1,4 @@
-# chatGPT-wx
+# chatGPT-微信小程序
 关于由openAI公司发布的大型预训练语言模型chatGPT3.5接入微信小程序
 
 项目演示地址：vx小程序：智能AI聊天工具
